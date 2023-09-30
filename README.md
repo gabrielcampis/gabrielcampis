@@ -1,7 +1,5 @@
 #### Hello, world! Welcome to my github profile.  
 
-- 👋 Hi, I’m Gabriel Campos. I'm an Economics major at UFSC, and at this point, I have completed my fourth year. I've been working as Analytics Engineer at a Startup from Florianópolis for a while and I am very excited about that field.Nowadays, I'm highly fascinated by the data science field, and I've been studying statistics and programming in R, Python, and SQL.
-- 👀 I’m interested in Data Science, Econometrics, Statistics, Python, R, SQL, Analytics Engineer, DBT (Data Build Tool) and other related contents.  
-- 🌱 I’m currently learning the brain drain and brain gain movements and its effects in economic development. 
-- 💞️ Besides work and school I love studying languages, photographing and cooking. 
+- 👋 Hi, I’m Gabriel Campos. I am an Analytics Engineer driven by the passion for turning data into insights and solutions. I approach my work with a unique perspective, combining my technical skills with a background in economics to drive impact through data-driven strategies. I enjoy taking on complex challenges, from designing and implementing data pipelines to developing and deploying data warehouses or predictive models. I specialize in the Modern Data Stack approach using dbt. However I have experience with a variety of data tools and technologies, which allows me to bridge the gap between data and decision-making. Let's connect and see how we can work together to drive results and drive impact!
+- 👀 I’m interested in Data Engineer, Analytics Engineer, data build tool (dbt), Data Science, Econometrics, Statistics, Python, R, SQL and other related contents. 
 - 📫 you can reach me on [linkedin](https://www.linkedin.com/in/gabrielcampis/)
